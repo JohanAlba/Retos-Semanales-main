@@ -13,4 +13,26 @@ EJERCICIO:
  * ¿Fácil? No te preocupes, recuerda que esta es una ruta de estudio y
  * debemos comenzar por el principio.
  '''
+
+#1 LINK DEL LENGUAJE
 #https://www.python.org/
+ 
+
+#2 COMENTARIOS
+#Esta es la manera de escribir un comentario de una sola linea
+
+
+'''
+Esta es la manera de escribir comentarios multilinea
+'''
+
+#3 VARIABLES
+variable = "Python"
+
+#4
+cadena = "string"
+entero = 23
+boleano = True
+
+#5
+print("Hola Python!")
