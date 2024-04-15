@@ -27,11 +27,15 @@ Esta es la manera de escribir comentarios multilinea
 '''
 
 #3 VARIABLES
+from traitlets import Float
+
+
 variable = "Python"
 
 #4
 cadena = "string"
 entero = 23
+Flotante = 23.5
 boleano = True
 
 #5
