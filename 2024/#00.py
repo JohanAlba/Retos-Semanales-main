@@ -27,9 +27,6 @@ Esta es la manera de escribir comentarios multilinea
 '''
 
 #3 VARIABLES
-from traitlets import Float
-
-
 variable = "Python"
 
 #4
